@@ -1,0 +1,76 @@
+.city-search {
+  text-align: center;
+}
+
+.container {
+  border: 1px solid rgb(198, 198, 248);
+  border-radius: 10px;
+  background-color: lavender;
+  padding: 30px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+  white-space: nowrap;
+}
+
+.mb-3 {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+.city-name {
+  font-size: 30px;
+  white-space: nowrap;
+}
+
+h2 {
+  font-size: 75px;
+  text-align: center;
+  margin-left: 30px;
+}
+h3 {
+  font-size: 50px;
+}
+
+h4 {
+  font-size: 75px;
+}
+
+.temperature {
+  font-size: 50px;
+}
+.unit {
+  font-size: 50px;
+}
+
+.search-box {
+  border-radius: 12px;
+  background-color: rgb(198, 198, 248);
+  border: 0.5px solid darkviolet;
+}
+.search-box:hover {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.city-box {
+  border-radius: 12px;
+  width: 300px;
+}
+
+.current-info {
+  padding: 20px;
+}
+.extra-stats {
+  list-style: none;
+  font-size: 20px;
+}
+
+.btn {
+  border-radius: 12px;
+  background-color: rgb(198, 198, 248);
+  padding: 10px;
+  margin-top: 20px;
+  border: 0.5px solid darkviolet;
+}
+.btn:hover {
+  background-color: rgb(198, 198, 248);
+  cursor: pointer;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
